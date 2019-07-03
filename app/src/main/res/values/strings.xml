@@ -1,5 +1,30 @@
-<resources>
+    <resources>
+        <string name="app_name">Beacon Receiver</string>
+        <string name="start_scan">Start Scan</string>
+        <string name="stop_scan">Stop Scan</string>
+        <string name="Model_ID">Model ID</string>
+        <string name="Device_Type">Device Type</string>
+        <string name="Tx_Power">Tx Power</string>
+        <string name="RSSI">RSSI</string>
+        <string name="UUID">UUID</string>
+        <string name="Major">Major</string>
+        <string name="Minor">Minor</string>
+        <string name="Voltage">Voltage</string>
+        <string name="Temperature">Temperature</string>
+        <string name="Distance">Distance</string>
+        <string name="Vehicle_Number">Vehicle Number</string>
+        <string name="Resident">Resident</string>
+        <string name="Security">Security</string>
+        <string name="Date_Time">Date Time</string>
+        <string name="Trial_User">Ujjwal Kumar</string>
+        <string name="Name">Name</string>
+        <string name="Make_my_entry">Make My Entry</string>
+        <string name="Resident_Screen">Allow Me</string>
+        <string name="KA_01_XXXX">KA_01_XXXX</string>
+        <string name="Flat_Number">E-1014</string>
+        <string name="Allow">ALLOW</string>
+        <string name="Deny">DENY</string>
+        <string name="Registering_Entry">Register Entry/Exit</string>
+        <string name="Visitor_List">Visitors List</string>
 
-    <string name="app_name">BeaconReference</string>
-
-</resources>
+    </resources>
