@@ -1,0 +1,4 @@
+#Mon Jul 08 11:17:31 IST 2019
+base.0=E\:\\android-beacon-library-reference\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

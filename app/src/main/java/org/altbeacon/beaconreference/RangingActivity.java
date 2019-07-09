@@ -33,7 +33,8 @@ public class RangingActivity extends Activity implements BeaconConsumer {
     MediaPlayer mediaPlayer;
     private MyListAdapter adapter;
     private RecyclerView recyclerView;
-    public final static String MODULE_MAC = "00:18:E4:40:00:06";
+   // public final static String MODULE_MAC = "00:18:E4:40:00:06";
+    public final static String MODULE_MAC = "00:13:EF:00:B2:1B";
     public final static int REQUEST_ENABLE_BT = 1;
     private static final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805f9b34fb");
     BluetoothAdapter bta;                 //bluetooth stuff
@@ -199,6 +200,8 @@ public class RangingActivity extends Activity implements BeaconConsumer {
                 Log.i("mmDevice ", "got the socket");
                 mmSocket.connect();
                 Log.i("[BLUETOOTH]", "Connected to: " + mmDevice.getName());
+
+
 
 
             } catch (IOException e) {
