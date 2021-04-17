@@ -2,8 +2,6 @@
 
 This is an Android Studio reference app for the AndroidBeaconLibrary supporting AltBeacon compatible devices
 
-If you are looking for an Eclipse reference project, see the eclipse branch.
-
 ## Project Setup
 
 1. [Install Gradle](http://www.gradle.org/installation) version 2.12
