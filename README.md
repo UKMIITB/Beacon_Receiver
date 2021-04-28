@@ -1,6 +1,8 @@
 ## Overview
 
 This is an Android Studio reference app for the AndroidBeaconLibrary supporting AltBeacon compatible devices
+It captures beacon signal and sends data to google firebase integrated with it.
+
 
 ## Project Setup
 
